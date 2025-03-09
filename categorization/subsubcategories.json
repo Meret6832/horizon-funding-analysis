@@ -1,0 +1,49 @@
+{
+    "AI": {
+        "LLM": [
+            "llm",
+            "large language model",
+            "large language models"
+        ],
+        "DEEP LEARNING": [
+            "deep learning",
+            "deep-learning",
+            "deep neural networks"
+        ],
+        "GENERATIVE AI": [
+            "generative ai"
+        ],
+        "MACHINE LEARNING": [
+            "ml",
+            "machine learning"
+        ],
+        "NEURAL NETWORKS": [
+            "neural network",
+            "neural networks",
+            "artificial neural networks"
+        ],
+        "NLP": [
+            "nlp",
+            "natural language processing"
+        ]
+    },
+    "COMPUTING": {
+        "CLOUD COMPUTING": ["cloud", "cloud computing"],
+        "SUPERCOMPUTING": ["supercomputing", "supercomputers"],
+        "SOFTWARE": ["software", "software development", "devops"]
+    },
+    "XR": {
+        "XR": ["extended reality", "xr"],
+        "VR": ["virtual reality", "vr"],
+        "MR": ["mr", "mixed reality"],
+        "AR": ["ar", "augmented reality"]
+    },
+    "ICT": {
+        "5G": ["5g", "5g+"],
+        "6G": ["6g", "6g+"],
+        "WEB": ["worldwide web", "web"]
+    },
+    "DATA": {
+        "DATACENTER": ["datacenter", "datacenters", "data center", "data centers"]
+    }
+}

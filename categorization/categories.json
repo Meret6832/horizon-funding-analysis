@@ -1,0 +1,712 @@
+{
+    "INTERNET": [
+        "transport layer",
+        "internet",
+        "5g",
+        "5g+",
+        "6g",
+        "web",
+        "worldwide web"
+    ],
+    "MATERIALS": [
+        "composites",
+        "coating and films",
+        "nano-materials",
+        "ssbd",
+        "advanced materials",
+        "ceramics",
+        "graphene",
+        "biocomposites",
+        "biomaterials",
+        "material",
+        "secondary raw materials",
+        "materials",
+        "critical raw materials",
+        "polymer sciences"
+    ],
+    "AEROSPACE": [
+        "aerospace",
+        "saf",
+        "air traffic",
+        "aircraft",
+        "aviation",
+        "airport engineering",
+        "airport"
+    ],
+    "AGRICULTURE": [
+        "livestock",
+        "fisheries",
+        "farmer",
+        "farmers",
+        "agroecology",
+        "agroforestry",
+        "akis",
+        "agriculture",
+        "vegetable growing",
+        "animal husbandry",
+        "fruit growing"
+    ],
+    "DIGITAL TECHNOLOGIES": [
+        "digital technologies",
+        "vr",
+        "extended reality",
+        "xr",
+        "augmented reality",
+        "mixed reality",
+        "ar",
+        "virtual reality",
+        "llm",
+        "reinforcement learning",
+        "computational intelligence",
+        "ml",
+        "natural language processing",
+        "ai",
+        "human-in-the-loop",
+        "nlp",
+        "machine learning",
+        "neural network",
+        "deep learning",
+        "artificial neural networks",
+        "computer vision",
+        "deep-learning",
+        "artificial intelligence",
+        "federated learning",
+        "hybrid ai",
+        "swarm learning",
+        "large language model",
+        "neural networks",
+        "large language models",
+        "deep neural networks",
+        "generative ai",
+        "cloud",
+        "cloud computing",
+        "mobile phones",
+        "mobile phone",
+        "ict",
+        "telecommunications",
+        "telecommunication",
+        "computer",
+        "supercomputers",
+        "operating systems",
+        "computers",
+        "software",
+        "hpc",
+        "computational",
+        "computing",
+        "supercomputing",
+        "operating system",
+        "software development",
+        "data mining",
+        "data",
+        "data space",
+        "data spaces",
+        "databases",
+        "database",
+        "data science",
+        "datacenter",
+        "datacenters",
+        "digital twin",
+        "digital twins",
+        "iot",
+        "internet of things",
+        "edge computing",
+        "edge",
+        "digitisation",
+        "digitalization"
+    ],
+    "HEALTH": [
+        "ehealth",
+        "ophthalmology",
+        "health",
+        "antibiotic",
+        "ccu",
+        "multiple sclerosis",
+        "medical",
+        "immunology",
+        "arteriosclerosis",
+        "drug",
+        "heart failure",
+        "disease",
+        "virology",
+        "schizophrenia",
+        "obstetrics",
+        "leukemia",
+        "physiotherapy",
+        "medicine",
+        "pathology",
+        "public health",
+        "parkinson",
+        "wounds",
+        "toxicology",
+        "healthcare",
+        "pandemics",
+        "wound",
+        "epidemiology",
+        "surgery",
+        "coronaviruses",
+        "tuberculosis",
+        "chemotherapy",
+        "asthma",
+        "dementia",
+        "cardiology",
+        "antiviral",
+        "vaccines",
+        "hiv",
+        "occupational health",
+        "ebola",
+        "ccam",
+        "obesity",
+        "immunotherapy",
+        "psychiatry",
+        "alzheimer",
+        "antivirals",
+        "diabetes",
+        "diseases",
+        "antibiotics",
+        "rheumatology",
+        "mortality",
+        "influenza",
+        "surgical",
+        "drugs",
+        "cancer",
+        "vaccine",
+        "epilepsy",
+        "tumor",
+        "oncology",
+        "malaria",
+        "clinical"
+    ],
+    "SPACE": [
+        "satellites",
+        "earth observation",
+        "exoplanet",
+        "black hole",
+        "celestial mechanics",
+        "exoplanetology",
+        "spacecraft",
+        "astrophysics",
+        "galaxy",
+        "comets",
+        "planets",
+        "collision avoidance",
+        "eusst",
+        "space",
+        "satellite",
+        "planetary",
+        "telescopes",
+        "stars",
+        "re-entry",
+        "comet",
+        "sst",
+        "astronomy",
+        "black holes",
+        "star"
+    ],
+    "TRANSPORTATION": [
+        "mobility",
+        "automotive",
+        "cars",
+        "vehicles",
+        "transportation",
+        "vehicle",
+        "battery electric vehicles"
+    ],
+    "MODELLING": [
+        "modelling",
+        "simulation",
+        "bim",
+        "simulations",
+        "models"
+    ],
+    "ECOLOGY": [
+        "freshwater ecosystems",
+        "conservation",
+        "biodiversity",
+        "ecology",
+        "ecological"
+    ],
+    "BIOLOGY": [
+        "biology",
+        "biological",
+        "bioeconomy",
+        "microbiology"
+    ],
+    "PHYSICS": [
+        "biophysics",
+        "spectroscopy",
+        "electrolysis",
+        "multiphysics",
+        "physics"
+    ],
+    "SENSORS": [
+        "optical sensors",
+        "sensor",
+        "smart sensors",
+        "sensors",
+        "radar",
+        "biosensor",
+        "biosensors",
+        "sensing",
+        "radars"
+    ],
+    "BLOCKCHAIN": ["blockchain", "digital ledger"],
+    "CHEMISTRY": [
+        "electrochemistry",
+        "chemistry",
+        "catalyst",
+        "catalysts",
+        "catalysis",
+        "biogeochemistry"
+    ],
+    "CONDUCTORS": [
+        "conductivity",
+        "semiconductivity",
+        "semiconductors",
+        "transition metals",
+        "conductor",
+        "conductors",
+        "superconductivity",
+        "semiconductor",
+        "transistors"
+    ],
+    "CO2": [
+        "co2"
+    ],
+    "SECURITY": [
+        "encryption",
+        "computer security",
+        "cyber threat",
+        "cyber security",
+        "cryptography",
+        "cybersecurity",
+        "security",
+        "safe",
+        "risk",
+        "secure",
+        "cryptography",
+        "terrorism",
+        "threat intelligence",
+        "risks",
+        "safety",
+        "data protection"
+    ],
+    "DRONES": [
+        "drone",
+        "drones"
+    ],
+    "ENERGY": [
+        "energy transition",
+        "electric batteries",
+        "energy efficiency",
+        "hydropower",
+        "energy and fuels",
+        "energy",
+        "wind power",
+        "renewable energy"
+    ],
+    "ELECTRONICS": [
+        "electronics",
+        "optoelectronics",
+        "nanoelectronics",
+        "microelectronics"
+    ],
+    "QUANTUM": [
+        "quantum",
+        "quantum dots",
+        "quantum technologies",
+        "entanglement"
+    ],
+    "FIBERS": [
+        "fibers",
+        "fibres",
+        "fibre",
+        "fiber"
+    ],
+    "FUEL": [
+        "fuel",
+        "biofuel",
+        "fuels"
+    ],
+    "GEOLOGY": [
+        "geology",
+        "geological"
+    ],
+    "PHOTONICS": [
+        "laser",
+        "photons",
+        "lidar",
+        "bipv",
+        "laser physics",
+        "photon",
+        "photonics",
+        "photovoltaics",
+        "photovoltaic",
+        "photonic",
+        "nanophotonics",
+        "lasers"
+    ],
+    "MAGNETS": [
+        "magnet",
+        "magnets",
+        "magnetic"
+    ],
+    "MANUFACTURING": [
+        "manufacturing as a service",
+        "manufacturing engineering",
+        "manufacturing",
+        "smart manufacturing",
+        "remanufacturing",
+        "manufacturer"
+    ],
+    "METALS": [
+        "metalloids",
+        "metals",
+        "metallurgy",
+        "metal",
+        "steel"
+    ],
+    "NETWORKS": [
+        "network",
+        "nodes",
+        "networks",
+        "networking"
+    ],
+    "PHILOSOPHY": [
+        "philosophy"
+    ],
+    "WASTE & POLLUTION": [
+        "weee",
+        "wastewater",
+        "pollution",
+        "waste",
+        "waste & pollution"
+    ],
+    "SIGNAL PROCESSING": [
+        "signal",
+        "radio",
+        "radio frequency",
+        "signals",
+        "signal processing"
+    ],
+    "ROBOTICS": [
+        "robots",
+        "robotic",
+        "robotics",
+        "robot",
+        "snake robot"
+    ],
+    "BATTERIES": [
+        "batteries",
+        "battery"
+    ],
+    "REPAIRING": [
+        "repair",
+        "repairing"
+    ],
+    "MARITIME": [
+        "sea vessels",
+        "maritime",
+        "port and harbor engineering"
+    ],
+    "INFORMATION": [
+        "information",
+        "knowledge"
+    ],
+    "GENETICS": [
+        "transcriptomics",
+        "genome",
+        "stem cells",
+        "rna",
+        "genomes",
+        "dna",
+        "genetic",
+        "genetics"
+    ],
+    "LINGUISTICS": [
+        "language studies",
+        "linguistics",
+        "psycholinguistics"
+    ],
+    "HYDROLOGY": [
+        "hydrology",
+        "water management",
+        "limnology",
+        "drainage baisins"
+    ],
+    "BIOINFORMATICS": [
+        "bioinformatics"
+    ],
+    "NUCLEAR": [
+        "nuclear"
+    ],
+    "CRIMINOLOGY": [
+        "criminology",
+        "human trafficking"
+    ],
+    "ART": [
+        "art",
+        "arts",
+        "cinematography"
+    ],
+    "SURVEILLANCE": [
+        "surveillance"
+    ],
+    "OPEN": [
+        "accountable",
+        "open",
+        "transparent",
+        "transparency",
+        "accountability"
+    ],
+    "AUTOMATION": [
+        "automate",
+        "automation"
+    ],
+    "SOVEREIGNTY": [
+        "data sovereignty",
+        "autonomy",
+        "sovereignty"
+    ],
+    "SUSTAINABILITY": [
+        "energy transition",
+        "recycling",
+        "life cycle analysis",
+        "zero emission",
+        "decarbonization",
+        "wind power",
+        "life cycle assessment",
+        "recyclability",
+        "green deal",
+        "eco-design",
+        "environmental impact",
+        "ssbd",
+        "eco",
+        "reusability",
+        "sustainable",
+        "upcycling",
+        "reuse",
+        "lcc",
+        "green transition",
+        "lca",
+        "life cycle costs",
+        "recycle",
+        "reusable",
+        "sustainable building",
+        "saf",
+        "energy efficiency",
+        "circular",
+        "decarbonisation",
+        "sustainability",
+        "renewable energy",
+        "battery electric vehicles",
+        "green",
+        "circularity",
+        "remanufacturing"
+    ],
+    "ECONOMY": [
+        "scale-up",
+        "bioeconomy",
+        "economics",
+        "finances",
+        "econometrics",
+        "pricing",
+        "trading",
+        "economy",
+        "socio-economic",
+        "microeconomics"
+    ],
+    "BUSINESS": [
+        "entrepreneurship",
+        "commerce",
+        "monetization",
+        "monetisation",
+        "e-commerce",
+        "business"
+    ],
+    "URBAN": [
+        "cities",
+        "urban",
+        "city",
+        "metropolitan"
+    ],
+    "PUBLIC": [
+        "citizen",
+        "taxation",
+        "regulation",
+        "policy",
+        "democracy",
+        "citizens",
+        "public health",
+        "public governance",
+        "regulatory",
+        "public administration",
+        "laws",
+        "elections",
+        "government",
+        "governance",
+        "public",
+        "civil society",
+        "law",
+        "public services",
+        "public service"
+    ],
+    "CLIMATE": [
+        "climatic",
+        "climatology",
+        "paleoclimatology",
+        "climate"
+    ],
+    "ETHICS": [
+        "ethical principles",
+        "equality",
+        "ethical",
+        "ethics",
+        "human rights",
+        "discrimination",
+        "fair"
+    ],
+    "LABOR": [
+        "occupational health",
+        "labour",
+        "labor",
+        "employment"
+    ],
+    "EXPLAINABILITY": [
+        "traceability",
+        "explainable",
+        "explainability"
+    ],
+    "NUTRITION": [
+        "nutrition",
+        "diary",
+        "fruit",
+        "vegetable growing",
+        "fruit growing",
+        "food"
+    ],
+    "NATURE": [
+        "forestry",
+        "plants",
+        "plant protection",
+        "botany",
+        "forest",
+        "mycology",
+        "nature"
+    ],
+    "HUMAN": [
+        "human"
+    ],
+    "HUMANITIES": [
+        "humanities"
+    ],
+    "INDUSTRY": [
+        "industrial",
+        "industrialization",
+        "industry"
+    ],
+    "INTEROPERABILITY": [
+        "interoperability",
+        "interoperable"
+    ],
+    "OPEN SOURCE": [
+        "open-source",
+        "open source"
+    ],
+    "PRIVACY": [
+        "privacy",
+        "gdpr"
+    ],
+    "PRODUCTIVITY": [
+        "productive",
+        "productivity"
+    ],
+    "RESILIENCE": [
+        "robustness",
+        "resilient",
+        "robust",
+        "reliability",
+        "resilience"
+    ],
+    "TRUST": [
+        "trust",
+        "trusted",
+        "trustworthiness",
+        "trustworthy"
+    ],
+    "USER": [
+        "usabiity",
+        "accessibility",
+        "user",
+        "users"
+    ],
+    "SOCIAL": [
+        "social",
+        "community"
+    ],
+    "NGO": [
+        "ngo",
+        "nongovernmental organizations"
+    ],
+    "LAW ENFORCEMENT": [
+        "law enforcement",
+        "police"
+    ],
+    "SOCIAL EQUITY": [
+        "social equity",
+        "inclusiveness",
+        "inequality",
+        "inclusivity",
+        "equity",
+        "gender equality",
+        "intersectionality",
+        "discrimination",
+        "women's studies",
+        "equity"
+    ],
+    "EDUCATION": [
+        "didactics",
+        "pedagogy",
+        "schools",
+        "education",
+        "school"
+    ],
+    "RURAL": [
+        "rural",
+        "countryside"
+    ],
+    "MIGRATION": [
+        "migrations",
+        "migration"
+    ],
+    "CULTURE": [
+        "cultural",
+        "culture"
+    ],
+    "RELIGION": [
+        "religious",
+        "judaism",
+        "jewish",
+        "islam",
+        "muslim",
+        "christianity",
+        "christian",
+        "hinduism",
+        "hindu",
+        "buddhism",
+        "buddhist",
+        "religion",
+        "religions"
+    ],
+    "CHILDREN": [
+        "child",
+        "children",
+        "infant",
+        "toddler"
+    ],
+    "MILITARY": [
+        "military",
+        "army",
+        "soldier",
+        "infantry"
+    ]
+}

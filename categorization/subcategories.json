@@ -1,0 +1,96 @@
+{
+    "MATERIALS": {
+        "RAW MATERIALS": ["secondary raw materials", "cricial raw materals", "raw materials"],
+        "BIO-MATERIALS": ["biocomposites", "biomaterials"],
+        "POLYMERS": ["polymers", "polymer sciences"]
+    },
+    "DIGITAL TECHNOLOGIES": {
+        "AI": [
+            "llm",
+            "reinforcement learning",
+            "computational intelligence",
+            "ml",
+            "natural language processing",
+            "ai",
+            "human-in-the-loop",
+            "nlp",
+            "machine learning",
+            "neural network",
+            "deep learning",
+            "artificial neural networks",
+            "computer vision",
+            "deep-learning",
+            "artificial intelligence",
+            "federated learning",
+            "hybrid ai",
+            "swarm learning",
+            "large language model",
+            "neural networks",
+            "large language models",
+            "deep neural networks",
+            "generative ai"
+        ],
+        "XR": [
+            "vr",
+            "extended reality",
+            "xr",
+            "augmented reality",
+            "mixed reality",
+            "ar",
+            "virtual reality"
+        ],
+        "COMPUTING": [
+            "cloud",
+            "cloud computing",
+            "computer",
+            "supercomputers",
+            "operating systems",
+            "computers",
+            "software",
+            "hpc",
+            "computational",
+            "computing",
+            "supercomputing",
+            "operating system",
+            "software development"
+        ],
+        "ICT": [
+            "mobile phones",
+            "mobile phone",
+            "ict",
+            "telecommunications",
+            "telecommunication",
+            "transport layer",
+            "internet",
+            "5g",
+            "5g+",
+            "6g",
+            "web",
+            "worldwide web"
+        ],
+        "DATA": [
+            "data mining",
+            "data",
+            "data space",
+            "data spaces",
+            "databases",
+            "database",
+            "data science",
+            "datacenter",
+            "datacenters"
+        ],
+        "DIGITAL TWIN": ["digital twin", "digital twins"],
+        "IOT": ["iot", "internet of things"],
+        "DIGITALIZATION": ["digitisation", "digitalization"]
+    },
+    "SECURITY": {
+        "CYBERSECURITY": [
+            "encryption",
+            "computer security",
+            "cyber threat",
+            "cyber security",
+            "cryptography",
+            "cybersecurity"
+        ]
+    }
+}
